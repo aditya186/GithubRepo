@@ -56,7 +56,6 @@ public class Basics {
 	//Cucumber Junit, Testng
 	
 	System.out.println("hello");
-	System.out.println("hello2");
 	
 	
 	
